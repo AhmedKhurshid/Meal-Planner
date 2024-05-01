@@ -1,0 +1,16 @@
+import { ResponseData } from 'core/common/ResponseModel';
+import { User } from 'core/entities';
+import { ROLE, STATUS } from 'core/enums';
+export declare const searalizeUser: (d: any, role: ROLE, status: STATUS) => User;
+export declare const deSearalizeUser: (d: any) => any;
+export declare const deSearalizeUsers: (d: any[]) => any[];
+export declare const throwForbiddenException: (data: any) => void;
+export declare const throwForbiddenExceptionUser: (data: any) => void;
+export declare const throwForbiddenExceptionFileRequried: (data: any) => void;
+export declare const throwForbiddenExceptionName: (data: any) => void;
+export declare const throwForbiddenExceptionServiceName: (data: any) => void;
+export declare const throwForbiddenExceptionPasswordNotMatch: () => ResponseData<unknown>;
+export declare const throwForbiddenExceptiontitle: (data: any) => void;
+export declare const generatePassword: () => string;
+export declare const generateCode: () => string;
+export declare const generateLawyerPassword: () => string;

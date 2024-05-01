@@ -1,0 +1,1 @@
+{"version":3,"file":"create-lawyerwork-role-based.seed.js","sourceRoot":"","sources":["../../../../src/core/db/seeds/create-lawyerwork-role-based.seed.ts"],"names":[],"mappings":";;AAMA,MAAqB,6BAA6B;IACzC,KAAK,CAAC,GAAG,CAAC,OAAgB,EAAE,UAAsB;QACvD,MAAM,MAAM,GAAG,UAAU,CAAC,kBAAkB,EAAE,CAAC,MAAM,EAAE,CAAC;IA6B1D,CAAC;CACF;AAhCD,gDAgCC"}

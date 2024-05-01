@@ -1,0 +1,1 @@
+{"version":3,"file":"create-adminwork-role-based.seed.js","sourceRoot":"","sources":["../../../../src/core/db/seeds/create-adminwork-role-based.seed.ts"],"names":[],"mappings":";;AAGA,MAAqB,4BAA4B;IACxC,KAAK,CAAC,GAAG,CAAC,OAAgB,EAAE,UAAsB;QACvD,MAAM,MAAM,GAAG,UAAU,CAAC,kBAAkB,EAAE,CAAC,MAAM,EAAE,CAAC;IAmC1D,CAAC;CACF;AAtCD,+CAsCC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"create-m-appointment.seed.js","sourceRoot":"","sources":["../../../../src/core/db/seeds/create-m-appointment.seed.ts"],"names":[],"mappings":";;AAKA,MAAqB,sBAAsB;IAClC,KAAK,CAAC,GAAG,CAAC,OAAgB,EAAE,UAAsB;QACvD,MAAM,MAAM,GAAG,UAAU,CAAC,kBAAkB,EAAE,CAAC,MAAM,EAAE,CAAC;IAW1D,CAAC;CACF;AAdD,yCAcC"}

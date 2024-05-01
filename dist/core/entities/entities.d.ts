@@ -1,0 +1,13 @@
+import { User } from 'core/entities/user.entity';
+import { AlphaModel } from 'core/entities';
+import { Service } from './service.entity';
+import { ServiceForm } from './serviceForm.entity';
+import { Notification } from './notification.entity';
+import { Student } from './student.entity';
+import { Vendor } from './vendor.entity';
+import { Item } from './item.entity';
+import { Order } from './order.entity';
+import { MealPlan } from './mealPlan.entity';
+import { StudentTpye } from './studentType.entity';
+export declare const entities: (typeof Student | typeof Vendor | typeof Item | typeof MealPlan | typeof User | typeof StudentTpye | typeof Order | typeof Notification | typeof Service | typeof ServiceForm)[];
+export declare const baseEntities: (typeof AlphaModel)[];

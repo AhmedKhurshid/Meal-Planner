@@ -1,0 +1,1 @@
+{"version":3,"file":"ConfigSession.js","sourceRoot":"","sources":["../../../src/core/config/ConfigSession.ts"],"names":[],"mappings":";;;AAAA,2CAA2C;AAE9B,QAAA,aAAa,GAAG,OAAO,CAAC;IACnC,IAAI,EAAE,yBAAyB;IAC/B,MAAM,EAAE,QAAQ;IAChB,MAAM,EAAE,KAAK;IACb,iBAAiB,EAAE,IAAI;IACvB,MAAM,EAAE;QACN,MAAM,EAAE,KAAK;KACd;CACF,CAAC,CAAC"}
